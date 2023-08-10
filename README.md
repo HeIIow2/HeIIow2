@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/HeIIow2/trans-communism/bc9a3ab0988a8185c986da41beff4f329d0ccbbf/sticker/trans-communist-flag.svg" alt="meeeeee" style="float:right; width:42px; height:42px; border-radius: 5%;" />
+<img src="https://raw.githubusercontent.com/HeIIow2/trans-communism/bc9a3ab0988a8185c986da41beff4f329d0ccbbf/sticker/trans-communist-flag.svg" alt="meeeeee" 
+width=70% style="float:right; border-radius: 5%;" />
 
 I can put everything I want here soooooo...... 
 
